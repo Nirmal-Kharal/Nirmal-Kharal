@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirmal-kharal&show_icons=true&locale=en&layout=compact" alt="nirmal-kharal" /></p>
 
-<>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirmal-kharal&show_icons=true&locale=en" alt="nirmal-Nirmal-Kharal
+<>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirmal-kharal&show_icons=true&locale=en" alt="nirmal-Nirmal-Kharal"/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nirmal-Kharal/Nirmal-Kharal/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nirmal-Kharal/Nirmal-Kharal/output/github-snake.svg" />
